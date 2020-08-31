@@ -8,6 +8,6 @@ end
 return counter
 end
 
-def current_player(board1)
+def current_player(board)
   
 end
