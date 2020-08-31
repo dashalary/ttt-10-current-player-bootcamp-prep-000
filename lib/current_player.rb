@@ -9,7 +9,7 @@ return counter
 end
 
 def current_player(board)
-  if turn_count(board1) % 2 
+  if turn_count(board1).even?
     
   end
 end
